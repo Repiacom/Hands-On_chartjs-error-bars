@@ -3,7 +3,7 @@
 ![Bar chart with any number of series](./error-bars.png)
 
 ## Demo 
-https://handsondataviz.github.io/chartjs-error-bars/
+https://repiacom.github.io/Hands-On_chartjs-error-bars/
 
 Sample data by American Community Survey, 2018 5-year estimates.
 You can notice that as locations become smaller, the margins of error become larger. That's a very common pattern for survey data because the smaller the location, the smaller the sample size, hence higher uncertainty.
